@@ -1,0 +1,203 @@
+Sentence,Label
+The baby smiles at her mother.,Simple
+The lion sleeps in the den.,Simple
+"The plane took off, and the passengers cheered.",Compound
+"We could order food, or we could cook something at home.",Compound
+"Although she was nervous about the interview, she answered every question, and she received a job offer.",Compound-Complex
+"Since he forgot his password, he couldn't access the account, but he reset it the next day.",Compound-Complex
+"Even if the storm passes, the roads will remain flooded, and travel will be difficult for a while.",Compound-Complex
+"The balloon popped, and the kids laughed.",Compound
+The elephant trumpets loudly.,Simple
+The clock strikes twelve.,Simple
+"He missed the bus, but he managed to catch the next one.",Compound
+"If you don't submit the form by Friday, your application will be rejected.",Complex
+"After the movie ended, we went out for dinner.",Complex
+"Since the project deadline was approaching, the team worked overtime.",Complex
+The artist paints a portrait.,Simple
+The child draws pictures.,Simple
+"Even though he was exhausted, he stayed up all night, and he finished writing his novel.",Compound-Complex
+"Because they were running late, they decided to take a taxi.",Complex
+"They rented a cabin, and they spent the weekend by the lake.",Compound
+"Unless you set an alarm, you might oversleep and miss the interview.",Complex
+"The baby cried, and the mother comforted him.",Compound
+"Unless you finish your homework, you cannot play video games.",Complex
+"Because the weather forecast predicted rain, they brought umbrellas, but it ended up being sunny all day.",Compound-Complex
+"She wrote the report, and he reviewed it for errors.",Compound
+"Although the cake looked delicious, it tasted too sweet, and nobody wanted a second slice.",Compound-Complex
+The bell rings.,Simple
+The book lies on the table.,Simple
+The fox jumps over the fence.,Simple
+"You can choose the blue one, or you can take the red one.",Compound
+"Since the plane was delayed, the passengers waited in the lounge, but the airline provided free refreshments.",Compound-Complex
+"The concert ended, but the audience asked for an encore.",Compound
+"Although she practiced for months, she still felt nervous before the performance.",Complex
+"Although the book was long, she read it in one week.",Complex
+"Even if she apologizes, he may not forgive her, and their friendship could end for good.",Compound-Complex
+The player kicks the ball.,Simple
+"Since she forgot her keys, she couldn't enter the house, and she had to wait for her brother.",Compound-Complex
+"Although the experiment failed, the researchers learned valuable lessons, and they documented their findings.",Compound-Complex
+"Since she had no umbrella, she got wet in the rain, and she caught a cold afterward.",Compound-Complex
+"Since she loves reading, Sarah visits the library every weekend.",Complex
+"We visited the museum, but it was closed for renovation.",Compound
+"Although it was freezing, he went out for a walk, and he enjoyed the peaceful snowfall.",Compound-Complex
+"Since the offer was too good to refuse, she accepted it immediately.",Complex
+The children laughed.,Simple
+"Even if you apologize, he might not forgive you.",Complex
+The baby sleeps peacefully.,Simple
+"Even though the power went out, they continued the meeting, and everyone used their phone flashlights.",Compound-Complex
+"Since the traffic was heavy, they took a different route, but it still took them an hour to arrive.",Compound-Complex
+"As long as you follow the instructions, you will be able to solve the puzzle.",Complex
+"We attended the festival, and it was full of colorful parades.",Compound
+"Although she tried her best, she did not win the race, but she received praise for her effort.",Compound-Complex
+"After she completed her degree, she applied for a job abroad.",Complex
+"As soon as the bell rang, the students rushed out of the classroom.",Complex
+"While the storm raged outside, the family gathered around the fireplace, and they told stories to each other.",Compound-Complex
+The sun shines brightly.,Simple
+"The baby smiled, and everyone in the room felt happy.",Compound
+"She bought a new dress, and it looked stunning on her.",Compound
+The teacher explains the lesson.,Simple
+"I baked a cake, and it turned out delicious.",Compound
+"The teacher explained the concept, and the students took notes.",Compound
+The dog wags its tail.,Simple
+"Though he had little experience, he performed exceptionally well.",Complex
+"The car broke down, so we called for help.",Compound
+"He practiced every day, and he finally won the tournament.",Compound
+A rainbow appeared.,Simple
+"Although the dog barked loudly, the neighbors did not complain, but they closed their windows.",Compound-Complex
+"The players trained hard, yet they still lost the match.",Compound
+"The dog chased the cat, but it escaped through a small hole.",Compound
+"If you don't ask for help, you might struggle with the assignment.",Complex
+"The boat rocked violently, but the captain remained calm.",Compound
+"The dog barked, and the cat hissed.",Compound
+The chef cooks delicious meals.,Simple
+"Although the play was well-rehearsed, one actor forgot his lines, but he quickly improvised a replacement.",Compound-Complex
+He eats lunch.,Simple
+The athlete wins the race.,Simple
+"Because she won the lottery, she decided to buy a new car, but she also donated to charity.",Compound-Complex
+They play soccer every weekend.,Simple
+"Even though he is wealthy, he lives a simple life.",Complex
+"While the children were building a sandcastle, the tide came in, and it washed their creation away.",Compound-Complex
+"We can watch a movie, or we can play a board game.",Compound
+"The sun was hot, so we went inside to cool off.",Compound
+"He spoke softly, but everyone could hear him clearly.",Compound
+She walks to school.,Simple
+"We cleaned the house, and then we went out for dinner.",Compound
+"Although his car broke down, he managed to get to work, but he was an hour late.",Compound-Complex
+The moon rises over the horizon.,Simple
+"Since she forgot her umbrella, she got soaked in the rain.",Complex
+"The laptop battery died, so I had to plug it in.",Compound
+"Since the wifi was down, they couldn't stream the movie, so they watched a DVD instead.",Compound-Complex
+"Even though the flight was delayed, they arrived at their destination on time, and they were relieved.",Compound-Complex
+"While he was cleaning the attic, he found a box of old photographs.",Complex
+The mailman delivers letters.,Simple
+"The cat climbed the tree, but it couldn't get down.",Compound
+"The storm was severe, yet the old bridge held strong.",Compound
+"While the children were asleep, their parents watched a movie.",Complex
+"While the construction was ongoing, the road was closed, and drivers had to use a detour.",Compound-Complex
+"Since the road was slippery, the driver reduced his speed.",Complex
+It is raining.,Simple
+"Though he was exhausted, he continued working on the project.",Complex
+"Because he was ill, he missed the final exam.",Complex
+"The garden bloomed with flowers, and the air smelled sweet.",Compound
+The clouds drift across the sky.,Simple
+"Even though it was freezing, they decided to go hiking.",Complex
+The lamp lights up the room.,Simple
+"We could go hiking, or we could relax by the pool.",Compound
+"While the coach gave instructions, the players listened carefully, but some still made mistakes on the field.",Compound-Complex
+"Before the sun rose, the fishermen were already at sea.",Complex
+"Unless you water the plants, they will wither and die.",Complex
+"I wanted to learn French, so I enrolled in a language course.",Compound
+The gardener waters the plants.,Simple
+"He tried to explain, but she wouldn't listen.",Compound
+"Because he missed the bus, Tom arrived late to class, and his teacher gave him a warning.",Compound-Complex
+"Because she trusted him, she shared her deepest secrets.",Complex
+The mother hugs her child.,Simple
+"I ordered a pizza, and it arrived hot and fresh.",Compound
+"Because she had studied hard, Maria passed the exam with flying colors.",Complex
+The stars shine brightly at night.,Simple
+"He was afraid of heights, but he still climbed the mountain.",Compound
+"While the concert was in progress, the lights suddenly went out, but the band kept playing.",Compound-Complex
+The phone rang.,Simple
+"Because she had practiced for weeks, she performed confidently on stage, but she still felt nervous inside.",Compound-Complex
+"Unless she changes her attitude, she will have difficulty making friends.",Complex
+"Because the instructions were unclear, the students made mistakes, but the teacher corrected them.",Compound-Complex
+"Whenever she visits her grandmother, she brings her homemade cookies.",Complex
+"Although it was late, she kept reading her book, and she finished it in one night.",Compound-Complex
+John loves pizza.,Simple
+"If you practice every day, you will become a better musician.",Complex
+"Although she didn't feel well, she still attended the wedding.",Complex
+The baby cries loudly.,Simple
+"While the movie was playing, the baby started crying, and the parents had to leave the theater.",Compound-Complex
+"As the clock struck midnight, the fireworks lit up the sky.",Complex
+"Even though he had a fever, he attended the important meeting.",Complex
+The cat meows.,Simple
+"They argued about the decision, but neither would change their mind.",Compound
+"We planned to travel, but the pandemic changed our plans.",Compound
+"She loves to dance, and he enjoys playing guitar.",Compound
+"I forgot to set my alarm, so I woke up late.",Compound
+"While the sun was setting, the children played on the beach.",Complex
+My dog barks loudly.,Simple
+"Since the babysitter was running late, the parents had to wait, but they eventually made it to their dinner date.",Compound-Complex
+"While the guests were arriving, the chef was still preparing the meal, and the waitstaff was setting the tables.",Compound-Complex
+"If the weather improves, we will have a picnic this weekend.",Complex
+"I forgot my keys, but my neighbor had a spare.",Compound
+"Because it was his birthday, his friends threw him a surprise party, and they bought him a gift.",Compound-Complex
+"While the children were playing, the rain began to fall, and the parents called them inside.",Compound-Complex
+"After he heard the news, he called his family immediately.",Complex
+"She loves chocolate, and he prefers vanilla.",Compound
+Water flows downhill.,Simple
+The car moves fast.,Simple
+The doorbell rang.,Simple
+"Although the teacher explained the concept clearly, some students were still confused, and they asked more questions.",Compound-Complex
+The boy runs to the park.,Simple
+"Since the water heater broke, they had to take cold showers, but a plumber was called to fix it.",Compound-Complex
+"Since he missed the bus, John had to walk to school.",Complex
+"Although the traffic was terrible, we still made it to the airport on time.",Complex
+The train arrived late.,Simple
+"Since they had no electricity, they used candles for light.",Complex
+"Even if it rains tomorrow, the event will not be canceled.",Complex
+"While the guests were arriving, the chef was preparing the main course.",Complex
+My friend called.,Simple
+She reads books.,Simple
+The clock ticks.,Simple
+The fish swims in the pond.,Simple
+Birds fly in the sky.,Simple
+"Although it rained heavily, the match continued as scheduled.",Complex
+"Even though he apologized, she remained upset, and she refused to speak to him for days.",Compound-Complex
+"You can take the bus, or you can walk to school.",Compound
+"Since she forgot to set her alarm, she woke up late, and she missed the morning train.",Compound-Complex
+"Before the teacher arrived, the students were chatting noisily.",Complex
+"Since the project deadline was moved up, the team worked overtime, but they still missed the deadline.",Compound-Complex
+"The show was entertaining, but the ending was disappointing.",Compound
+The waiter serves the food.,Simple
+She dances gracefully.,Simple
+"Although she had never tried skydiving before, she agreed to do it, and she ended up loving it.",Compound-Complex
+The wind blows gently.,Simple
+"The power went out, so we used candles for light.",Compound
+"Though he studied all night, he still failed the exam.",Complex
+"Whenever he feels stressed, he goes for a long walk in the park.",Complex
+"The house needs repairs, so we hired a contractor.",Compound
+"Because the package was delayed, the customer demanded a refund.",Complex
+"While the chef was cooking, the waiter took the orders, and the manager supervised the process.",Compound-Complex
+The flowers smell nice.,Simple
+"Though the hike was difficult, they reached the summit before noon.",Complex
+"I called him twice, but he didn't answer.",Compound
+"I wanted to go to the park, but it started raining.",Compound
+"Once he found the missing key, he was able to unlock the door.",Complex
+"The train was delayed, so we waited at the station.",Compound
+The sun sets in the west.,Simple
+"Even though the power was out, they used flashlights to search for supplies, and they found what they needed.",Compound-Complex
+"Because his grades improved, he earned a scholarship, but he still had to pay for his textbooks.",Compound-Complex
+"Once the storm passed, the villagers began rebuilding their homes.",Complex
+"The crowd cheered loudly, and the band started playing.",Compound
+"While the crowd was cheering, the player scored the winning goal, and the stadium erupted with joy.",Compound-Complex
+"Although they trained for weeks, the team lost the championship, but their coach praised their effort.",Compound-Complex
+"Because he studied diligently, John aced his exam, but he still felt nervous before it started.",Compound-Complex
+"Even though the dog was scared of thunder, it stayed outside, and it barked loudly all night.",Compound-Complex
+"As long as you believe in yourself, you can achieve anything.",Complex
+"Although the proposal was rejected, they decided to revise it, and they planned to resubmit it next week.",Compound-Complex
+"The students studied hard, yet some of them failed the exam.",Compound
+The train stops at the station.,Simple
+"Although it was raining, Sarah went to the store, and she bought some fresh bread.",Compound-Complex
+"The oven was too hot, so the cookies burned.",Compound
+"While the train was approaching, the passengers gathered at the platform, and the station attendant made announcements.",Compound-Complex
